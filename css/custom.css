@@ -16,3 +16,7 @@
 #services .btn-light {
   border-radius: 50px;
 }
+#contact #map {
+  width: 100%;
+  height: 100%;
+}
