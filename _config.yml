@@ -1,0 +1,12 @@
+# Site settings
+title: 江門長浩進出口有限公司
+email: mail@changhao1928.com
+phone: 0750-6321928
+description: > # this means to ignore newlines until "baseurl:"
+  以质为本、顾客至上、务实经营、求实发展
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://changhao1928.com" # the base hostname & protocol for your site
+twitter_username: changhao1928
+
+# Build settings
+markdown: kramdown
