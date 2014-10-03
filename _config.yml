@@ -10,3 +10,7 @@ twitter_username: changhao1928
 
 # Build settings
 markdown: kramdown
+
+# Github page config
+highlighter: pygments
+github: [Repository metadata]
