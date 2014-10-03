@@ -4,3 +4,6 @@
 .text-center p {
   text-align: justify;
 }
+.text-vertical-center {
+  color: #fff;
+}
