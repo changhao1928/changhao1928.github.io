@@ -4,8 +4,12 @@ email: mail@changhao1928.com
 phone: 0750-6321928
 description: > # this means to ignore newlines until "baseurl:"
   以质为本、顾客至上、务实经营、求实发展
+about_us: 江门长浩进出口有限公司是一家以食品进出口贸易为主的民营物流企业。针对目前物流业作为全球最有潜力的贸易行业，我公司管理高层着眼于全球的食品贸易市场，带领全体员工致力服务于食品贸易中生产、运输、仓储、成交等各个流通环节。
+             目前，公司已发展了几百种食品贸易业务，同时代理食品及其它商品的进出口贸易。公司现拥有自有商标“长裕”、“斑马”，以及著名商标“迪臣氏”、“百宝”的合法使用权。商品的流通领域主要有港澳、东南亚、新西兰、澳大利亚、荷兰、美国、加拿大等国家和地区。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://changhao1928.com" # the base hostname & protocol for your site
+
+#Social media
 twitter_username: changhao1928
 
 # Build settings
