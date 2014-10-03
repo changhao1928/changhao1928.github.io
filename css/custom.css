@@ -7,3 +7,12 @@
 .text-vertical-center {
   color: #fff;
 }
+#services {
+  background-color: #405C74;
+}
+#services .text-primary {
+  color: #9AAAB8;
+}
+#services .btn-light {
+  border-radius: 50px;
+}
