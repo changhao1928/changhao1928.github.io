@@ -7,7 +7,7 @@
 .text-vertical-center {
   color: #fff;
 }
-#services {
+#services, .call-to-action {
   background-color: #405C74;
 }
 #services .text-primary {
